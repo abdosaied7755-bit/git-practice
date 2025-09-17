@@ -3,7 +3,3 @@ Hello Git
 Hello Git
 Learning Git is fun.
 Learning Git is fun.
-
-
-This is from feature-1 branch
-This is a change from main branch
